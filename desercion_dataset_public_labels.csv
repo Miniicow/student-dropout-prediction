@@ -1,0 +1,101 @@
+previous_qualification,previous_grade,mother_occupation,father_occupation,admission_grade,displaced,educational_special_needs,gender,scholarship_holder,age_at_enrollment,GDP_million_COP,dropout,previous_qualification_label,mother_occupation_label,father_occupation_label
+1,151.3,125,151,155.2,0,0,0,0,24,36.0,0,Secondary education,Specialists in information and communication technologies (ICT),Personal service workers
+42,145.5,90,99,176.8,0,0,0,0,19,30.3,0,Professional higher technical course,Other Situation,(blank)
+10,151.4,6,151,151.0,0,0,0,0,17,36.0,0,11th year of schooling - not completed,"Farmers and Skilled Workers in Agriculture, Fisheries and Forestry",Personal service workers
+3,120.2,5,10,195.8,0,0,0,0,19,42.9,0,Higher education - degree,"Personal Services, Security and Safety Workers and Sellers",Armed Forces Professions
+1,146.7,7,172,164.4,0,0,0,0,17,30.3,0,Secondary education,"Skilled Workers in Industry, Construction and Craftsmen","Skilled workers in metallurgy, metalworking and similar"
+1,155.4,10,1,142.1,0,0,1,0,25,33.7,0,Secondary education,Armed Forces Professions,"Representatives of the Legislative Power and Executive Bodies, Directors, Directors and Executive Managers"
+1,172.2,193,103,138.9,0,0,0,0,23,30.3,0,Secondary education,"Unskilled workers in extractive industry, construction, manufacturing and transport",Other Armed Forces personnel
+19,142.2,9,1,162.2,0,0,1,0,17,33.1,0,Basic education 3rd cycle (9th/10th/11th year) or equivalent,Unskilled Workers,"Representatives of the Legislative Power and Executive Bodies, Directors, Directors and Executive Managers"
+3,137.9,2,9,151.6,0,0,1,0,17,20.0,0,Higher education - degree,Specialists in Intellectual and Scientific Activities,Unskilled Workers
+9,142.5,0,171,165.7,0,0,0,1,17,47.5,0,12th year of schooling - not completed,Student,"Skilled construction workers and the like, except electricians"
+1,163.7,9,2,162.1,0,0,1,0,18,33.1,0,Secondary education,Unskilled Workers,Specialists in Intellectual and Scientific Activities
+42,154.9,153,7,153.9,0,0,0,1,17,30.3,0,Professional higher technical course,Personal care workers and the like,"Skilled Workers in Industry, Construction and Craftsmen"
+19,142.1,122,161,142.3,0,0,1,0,18,33.7,0,Basic education 3rd cycle (9th/10th/11th year) or equivalent,Health professionals,Market-oriented farmers and skilled agricultural and animal production workers
+1,157.7,171,102,132.3,0,0,0,0,18,20.0,0,Secondary education,"Skilled construction workers and the like, except electricians",Armed Forces Sergeants
+1,151.5,99,182,148.3,0,0,1,0,19,30.3,0,Secondary education,(blank),Assembly workers
+1,164.5,90,114,167.8,0,0,0,0,19,30.3,0,Secondary education,Other Situation,"Hotel, catering, trade and other services directors"
+1,139.5,132,151,158.2,1,0,0,0,17,30.3,0,Secondary education,"Technicians and professionals, of intermediate level of health",Personal service workers
+1,145.1,7,9,136.3,1,0,1,1,17,20.0,0,Secondary education,"Skilled Workers in Industry, Construction and Craftsmen",Unskilled Workers
+1,144.1,90,192,157.6,0,0,0,0,19,25.0,1,Secondary education,Other Situation,"Unskilled workers in agriculture, animal production, fisheries and forestry"
+1,128.0,153,2,160.8,0,0,0,1,17,30.3,0,Secondary education,Personal care workers and the like,Specialists in Intellectual and Scientific Activities
+3,154.4,153,6,141.7,1,0,0,1,20,30.3,1,Higher education - degree,Personal care workers and the like,"Farmers and Skilled Workers in Agriculture, Fisheries and Forestry"
+1,153.9,99,101,157.3,0,0,1,0,19,47.5,0,Secondary education,(blank),Armed Forces Officers
+1,150.1,125,2,155.9,0,0,0,0,22,48.1,0,Secondary education,Specialists in information and communication technologies (ICT),Specialists in Intellectual and Scientific Activities
+1,146.5,194,152,137.9,0,0,0,0,20,30.3,0,Secondary education,Meal preparation assistants,Sellers
+1,128.8,1,174,160.4,0,0,0,1,21,49.7,0,Secondary education,"Representatives of the Legislative Power and Executive Bodies, Directors, Directors and Executive Managers",Skilled workers in electricity and electronics
+14,143.7,8,175,163.4,0,0,0,0,19,33.1,1,10th year of schooling,Installation and Machine Operators and Assembly Workers,"Workers in food processing, woodworking, clothing and other industries and crafts"
+1,144.9,191,99,171.2,0,0,1,0,19,36.0,0,Secondary education,Cleaning workers,(blank)
+1,138.0,7,195,170.8,0,0,1,0,22,33.7,0,Secondary education,"Skilled Workers in Industry, Construction and Craftsmen",Street vendors (except food) and street service providers
+3,147.6,173,195,134.3,0,0,0,0,18,30.3,0,Higher education - degree,"Skilled workers in printing, precision instrument manufacturing, jewelers, artisans and the like",Street vendors (except food) and street service providers
+1,156.1,194,90,140.9,0,0,1,0,20,20.0,0,Secondary education,Meal preparation assistants,Other Situation
+3,178.3,8,6,162.7,0,0,1,0,18,49.7,1,Higher education - degree,Installation and Machine Operators and Assembly Workers,"Farmers and Skilled Workers in Agriculture, Fisheries and Forestry"
+1,152.6,151,9,162.7,0,0,0,0,18,30.3,0,Secondary education,Personal service workers,Unskilled Workers
+1,153.9,143,154,162.7,0,0,0,0,17,25.0,0,Secondary education,"Data, accounting, statistical, financial services and registry-related operators",Protection and security services personnel
+42,148.9,151,154,200.0,0,0,0,0,17,49.7,0,Professional higher technical course,Personal service workers,Protection and security services personnel
+42,121.2,192,121,163.6,0,0,0,0,17,25.0,1,Professional higher technical course,"Unskilled workers in agriculture, animal production, fisheries and forestry","Specialists in the physical sciences, mathematics, engineering and related techniques"
+15,149.6,192,121,172.0,0,0,0,0,20,33.7,0,10th year of schooling - not completed,"Unskilled workers in agriculture, animal production, fisheries and forestry","Specialists in the physical sciences, mathematics, engineering and related techniques"
+1,150.9,134,193,169.3,0,0,0,0,21,33.7,0,Secondary education,"Intermediate level technicians from legal, social, sports, cultural and similar services","Unskilled workers in extractive industry, construction, manufacturing and transport"
+1,186.9,99,194,164.8,0,0,0,0,18,20.0,0,Secondary education,(blank),Meal preparation assistants
+9,147.1,9,10,150.3,0,0,1,0,19,42.9,0,12th year of schooling - not completed,Unskilled Workers,Armed Forces Professions
+1,154.5,194,183,166.4,0,0,1,0,18,30.3,0,Secondary education,Meal preparation assistants,Vehicle drivers and mobile equipment operators
+1,149.5,0,10,143.4,0,1,0,0,17,25.0,0,Secondary education,Student,Armed Forces Professions
+1,132.5,125,122,151.4,0,0,0,0,20,49.7,1,Secondary education,Specialists in information and communication technologies (ICT),Health professionals
+1,167.1,171,175,147.7,0,0,1,0,20,30.3,0,Secondary education,"Skilled construction workers and the like, except electricians","Workers in food processing, woodworking, clothing and other industries and crafts"
+39,161.3,2,123,156.2,0,0,1,0,17,20.0,0,Technological specialization course,Specialists in Intellectual and Scientific Activities,Teachers
+1,161.9,9,132,189.7,0,0,1,0,18,48.1,0,Secondary education,Unskilled Workers,"Technicians and professionals, of intermediate level of health"
+5,136.4,122,172,127.0,0,0,1,0,17,25.0,0,Higher education - doctorate,Health professionals,"Skilled workers in metallurgy, metalworking and similar"
+1,171.0,131,172,165.3,0,0,0,0,18,30.3,0,Secondary education,Intermediate level science and engineering technicians and professions,"Skilled workers in metallurgy, metalworking and similar"
+1,129.0,5,173,130.8,0,0,1,1,17,30.3,0,Secondary education,"Personal Services, Security and Safety Workers and Sellers",
+2,158.8,0,114,147.9,0,0,0,1,18,30.3,0,Higher education - bachelor's degree,Student,"Hotel, catering, trade and other services directors"
+1,182.9,194,193,171.3,0,0,0,0,18,33.7,0,Secondary education,Meal preparation assistants,"Unskilled workers in extractive industry, construction, manufacturing and transport"
+42,135.1,8,103,156.0,0,0,0,0,18,20.0,0,Professional higher technical course,Installation and Machine Operators and Assembly Workers,Other Armed Forces personnel
+14,141.5,7,4,138.8,0,0,0,1,21,20.0,0,10th year of schooling,"Skilled Workers in Industry, Construction and Craftsmen",Administrative staff
+40,151.5,191,0,144.3,0,0,1,1,20,30.3,0,Higher education - degree (1st cycle),Cleaning workers,Student
+39,142.4,10,174,165.2,0,0,0,1,17,25.0,0,Technological specialization course,Armed Forces Professions,Skilled workers in electricity and electronics
+3,126.7,3,172,144.0,0,0,1,1,17,30.3,0,Higher education - degree,Intermediate Level Technicians and Professions,"Skilled workers in metallurgy, metalworking and similar"
+40,151.0,6,192,158.2,0,0,1,1,19,33.1,0,Higher education - degree (1st cycle),"Farmers and Skilled Workers in Agriculture, Fisheries and Forestry","Unskilled workers in agriculture, animal production, fisheries and forestry"
+1,134.1,175,6,155.7,0,0,0,0,19,30.3,0,Secondary education,"Workers in food processing, woodworking, clothing and other industries and crafts","Farmers and Skilled Workers in Agriculture, Fisheries and Forestry"
+1,157.1,193,101,145.2,1,0,1,0,17,30.3,1,Secondary education,"Unskilled workers in extractive industry, construction, manufacturing and transport",Armed Forces Officers
+1,136.2,132,153,187.2,0,0,1,1,18,30.3,0,Secondary education,"Technicians and professionals, of intermediate level of health",Personal care workers and the like
+1,173.2,10,192,164.5,0,0,0,0,22,25.0,1,Secondary education,Armed Forces Professions,"Unskilled workers in agriculture, animal production, fisheries and forestry"
+1,138.3,173,174,124.6,0,0,1,1,17,33.1,0,Secondary education,"Skilled workers in printing, precision instrument manufacturing, jewelers, artisans and the like",Skilled workers in electricity and electronics
+1,145.2,5,135,157.8,0,0,0,0,22,49.7,1,Secondary education,"Personal Services, Security and Safety Workers and Sellers",Information and communication technology technicians
+19,162.2,1,7,145.1,0,0,1,0,21,42.9,0,Basic education 3rd cycle (9th/10th/11th year) or equivalent,"Representatives of the Legislative Power and Executive Bodies, Directors, Directors and Executive Managers","Skilled Workers in Industry, Construction and Craftsmen"
+1,131.5,123,151,167.8,0,0,0,0,22,33.1,0,Secondary education,Teachers,Personal service workers
+1,153.4,99,125,143.1,0,0,0,1,17,30.3,0,Secondary education,(blank),
+2,169.6,122,153,153.3,0,0,0,0,18,30.3,1,Higher education - bachelor's degree,Health professionals,Personal care workers and the like
+1,125.9,99,143,162.6,0,0,0,1,18,30.3,1,Secondary education,(blank),"Data, accounting, statistical, financial services and registry-related operators"
+15,152.8,7,163,168.0,0,0,1,0,21,33.1,0,10th year of schooling - not completed,"Skilled Workers in Industry, Construction and Craftsmen","Farmers, livestock keepers, fishermen, hunters and gatherers, subsistence"
+1,153.9,9,8,137.0,0,0,0,0,17,30.3,0,Secondary education,Unskilled Workers,Installation and Machine Operators and Assembly Workers
+43,161.7,1,173,150.0,0,0,1,0,20,33.7,0,Higher education - master (2nd cycle),"Representatives of the Legislative Power and Executive Bodies, Directors, Directors and Executive Managers",
+14,131.4,0,174,147.9,0,0,0,1,20,33.1,0,10th year of schooling,Student,Skilled workers in electricity and electronics
+1,130.2,191,6,145.2,0,0,1,0,18,30.3,0,Secondary education,Cleaning workers,"Farmers and Skilled Workers in Agriculture, Fisheries and Forestry"
+1,157.8,153,171,181.5,0,1,0,1,21,25.0,1,Secondary education,Personal care workers and the like,"Skilled construction workers and the like, except electricians"
+15,154.5,143,175,161.1,0,0,1,1,19,33.1,0,10th year of schooling - not completed,"Data, accounting, statistical, financial services and registry-related operators","Workers in food processing, woodworking, clothing and other industries and crafts"
+9,153.8,193,152,136.1,0,0,0,0,20,49.7,0,12th year of schooling - not completed,"Unskilled workers in extractive industry, construction, manufacturing and transport",Sellers
+10,155.2,171,9,168.8,0,0,0,1,18,42.9,0,11th year of schooling - not completed,"Skilled construction workers and the like, except electricians",Unskilled Workers
+14,139.8,193,163,186.8,0,0,0,0,17,49.7,0,10th year of schooling,"Unskilled workers in extractive industry, construction, manufacturing and transport","Farmers, livestock keepers, fishermen, hunters and gatherers, subsistence"
+1,153.5,4,5,170.5,0,0,1,0,20,30.3,0,Secondary education,Administrative staff,"Personal Services, Security and Safety Workers and Sellers"
+1,154.4,175,123,132.2,0,0,0,1,19,33.7,0,Secondary education,"Workers in food processing, woodworking, clothing and other industries and crafts",Teachers
+1,139.3,143,181,147.7,0,0,0,0,19,30.3,0,Secondary education,"Data, accounting, statistical, financial services and registry-related operators",Fixed plant and machine operators
+19,178.0,132,141,174.0,0,0,1,0,18,33.1,0,Basic education 3rd cycle (9th/10th/11th year) or equivalent,"Technicians and professionals, of intermediate level of health","Office workers, secretaries in general and data processing operators"
+4,157.1,152,132,144.4,0,0,1,0,22,49.7,1,Higher education - master's,Sellers,"Technicians and professionals, of intermediate level of health"
+1,132.1,132,131,161.7,1,0,1,0,17,33.7,1,Secondary education,"Technicians and professionals, of intermediate level of health",Intermediate level science and engineering technicians and professions
+1,159.8,8,193,166.6,0,0,0,0,17,36.0,0,Secondary education,Installation and Machine Operators and Assembly Workers,"Unskilled workers in extractive industry, construction, manufacturing and transport"
+1,135.4,10,2,141.1,0,0,0,0,20,33.1,0,Secondary education,Armed Forces Professions,Specialists in Intellectual and Scientific Activities
+1,161.8,9,154,154.1,0,0,1,0,20,42.9,0,Secondary education,Unskilled Workers,Protection and security services personnel
+10,167.4,151,191,106.4,0,0,1,1,19,25.0,1,11th year of schooling - not completed,Personal service workers,
+4,137.7,9,193,139.6,0,1,1,0,18,42.9,0,Higher education - master's,Unskilled Workers,"Unskilled workers in extractive industry, construction, manufacturing and transport"
+38,164.5,2,194,151.2,0,0,1,0,20,20.0,1,Basic education 2nd cycle (6th/7th/8th year) or equivalent,Specialists in Intellectual and Scientific Activities,Meal preparation assistants
+1,156.2,151,101,136.3,0,0,0,1,22,33.1,0,Secondary education,Personal service workers,Armed Forces Officers
+1,162.3,1,163,179.5,0,0,1,0,24,25.0,0,Secondary education,"Representatives of the Legislative Power and Executive Bodies, Directors, Directors and Executive Managers","Farmers, livestock keepers, fishermen, hunters and gatherers, subsistence"
+9,178.5,9,191,133.5,0,0,1,1,17,30.3,0,12th year of schooling - not completed,Unskilled Workers,
+14,146.3,0,90,148.4,0,0,1,1,18,30.3,0,10th year of schooling,Student,Other Situation
+2,138.7,175,5,157.0,0,0,0,0,18,30.3,0,Higher education - bachelor's degree,"Workers in food processing, woodworking, clothing and other industries and crafts","Personal Services, Security and Safety Workers and Sellers"
+14,136.7,152,102,176.6,0,0,0,1,22,33.1,0,10th year of schooling,Sellers,Armed Forces Sergeants
+1,137.8,0,112,133.5,0,0,0,0,17,30.3,1,Secondary education,Student,Directors of administrative and commercial services
+1,148.8,9,151,172.4,0,0,0,0,20,33.1,0,Secondary education,Unskilled Workers,Personal service workers
+1,155.1,1,8,155.2,0,0,0,0,18,30.3,0,Secondary education,"Representatives of the Legislative Power and Executive Bodies, Directors, Directors and Executive Managers",Installation and Machine Operators and Assembly Workers
+1,154.2,125,7,140.3,0,0,1,0,22,49.7,0,Secondary education,Specialists in information and communication technologies (ICT),"Skilled Workers in Industry, Construction and Craftsmen"
+1,162.4,0,135,161.9,0,0,0,1,22,33.7,0,Secondary education,Student,Information and communication technology technicians
